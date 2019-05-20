@@ -32,7 +32,7 @@ syn keyword linksKeywords where with tablekeys
 syn keyword linksLibWord addRoute servePages new serveWebsockets spawnAt
 syn keyword linksLibWord newAP here send
 
-syn keyword linksModule module open
+syn keyword linksModule module open import
 
 syn keyword linksConditional if else true false
 
