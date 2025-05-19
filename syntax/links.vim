@@ -19,7 +19,7 @@ syn match linksIdentifier "[a-z][a-zA-z0-9_]*\('\)*"
 syn region linksXml start='<#>' end='</#>'
 syn region linksString start='"' end='"'
 
-syn keyword linksKeywords alien as case client database default delete
+syn keyword linksKeywords alien as case other client database default delete
 syn keyword linksKeywords escape for forall from fun formlet 
 syn keyword linksKeywords typename effectname class instance
 syn keyword linksKeywords in yields insert linfun mu mutual native
